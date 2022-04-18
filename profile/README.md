@@ -1,12 +1,25 @@
-## Hi there 👋
+<p align="center"><a href="https://nylo.dev" target="_blank">
+<img src="https://nylo.dev/images/nylo_logo_filled.png" alt="Nylo logo" height="100">
+  </a>
+</p>
 
-<!--
+## About Nylo
 
-**Here are some ideas to get you started:**
+Nylo is a Flutter Micro-Framework that's been built to make developing new Flutter apps a breeze. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Out the box, Nylo solves many common tasks such as:
+
+- [Routing](https://nylo.dev/docs/2.x/router).
+- [Light and dark themes preset](https://nylo.dev/docs/2.x/themes).
+- [Localization](https://nylo.dev/docs/2.x/localization).
+- [CLI for generating project files](https://nylo.dev/docs/2.x/metro).
+- [Elegant API Services for Networking](https://nylo.dev/docs/2.x/networking).
+- [Creating App Icons](https://nylo.dev/docs/2.x/app-icons).
+- [Project Configuration](https://nylo.dev/docs/2.x/configuration).
+- [Streamlined Project Structure](https://nylo.dev/docs/2.x/directory-structure).
+
+This makes building Flutter apps far quicker than from scratch and you can write your `Dart` code just as you would in any other Flutter project.
+
+## Leanrning Nylo
+
+Check out our full docs on the [nylo.dev](https://nylo.dev) website.
