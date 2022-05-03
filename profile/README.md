@@ -9,14 +9,14 @@ Nylo is a Flutter Micro-Framework that's been built to make developing new Flutt
 
 Out the box, Nylo solves many common tasks such as:
 
-- [Routing](https://nylo.dev/docs/2.x/router).
-- [Light and dark themes preset](https://nylo.dev/docs/2.x/themes).
-- [Localization](https://nylo.dev/docs/2.x/localization).
-- [CLI for generating project files](https://nylo.dev/docs/2.x/metro).
-- [Elegant API Services for Networking](https://nylo.dev/docs/2.x/networking).
-- [Creating App Icons](https://nylo.dev/docs/2.x/app-icons).
-- [Project Configuration](https://nylo.dev/docs/2.x/configuration).
-- [Streamlined Project Structure](https://nylo.dev/docs/2.x/directory-structure).
+- [Routing](https://nylo.dev/docs/3.x/router).
+- [Light and dark themes preset](https://nylo.dev/docs/3.x/themes).
+- [Localization](https://nylo.dev/docs/3.x/localization).
+- [CLI for generating project files](https://nylo.dev/docs/3.x/metro).
+- [Elegant API Services for Networking](https://nylo.dev/docs/3.x/networking).
+- [Creating App Icons](https://nylo.dev/docs/3.x/app-icons).
+- [Project Configuration](https://nylo.dev/docs/3.x/configuration).
+- [Streamlined Project Structure](https://nylo.dev/docs/3.x/directory-structure).
 
 This makes building Flutter apps far quicker than from scratch and you can write your `Dart` code just as you would in any other Flutter project.
 
