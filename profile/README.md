@@ -20,6 +20,6 @@ Out the box, Nylo solves many common tasks such as:
 
 This makes building Flutter apps far quicker than from scratch and you can write your `Dart` code just as you would in any other Flutter project.
 
-## Leanrning Nylo
+## Learning Nylo
 
 Check out our full docs on the [nylo.dev](https://nylo.dev) website.
