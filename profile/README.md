@@ -10,7 +10,7 @@ Nylo is a Flutter Micro-Framework that's been built to make developing new Flutt
 Projects using Nylo benefit from:
 
 - [Routing](https://nylo.dev/docs/5.x/router).
-- [Light and dark themes](https://nylo.dev/docs/5.x/themes).
+- [Themes and styling](https://nylo.dev/docs/5.x/themes-and-styling).
 - [Localization](https://nylo.dev/docs/5.x/localization).
 - [CLI for generating project files](https://nylo.dev/docs/5.x/metro).
 - [Elegant API Services for Networking](https://nylo.dev/docs/5.x/networking).
